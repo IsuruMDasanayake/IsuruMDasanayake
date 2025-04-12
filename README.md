@@ -1,16 +1,14 @@
 Hi there, I'm Isuru M. Dasanayake! 👋
 
-🚀 Senior Systems Administrator | Full-Stack Developer | Tech Enthusiast
+🚀 Aspiring Full-Stack Developer | Tech Enthusiast
   
-          🔹 Passionate about Linux System Administration and managing servers efficiently.
-  
-          🔹 Experienced in Laravel & Angular for building scalable web applications.
+          🔹 Experienced in Laravel & React for building scalable web applications.
           
           🔹 Interested in Digital Image Processing and exploring AI applications.
   
           🔹 Love working with Virtualization (VirtualBox) and cloud technologies.
   
-          🔹 Enjoys photography and creating gaming content on YouTube (@PixelPlay).
+          🔹 Enjoys photography and creating gaming content on YouTube (@NeoCheckpoint).
 
 🌱 Currently Learning
  
@@ -24,7 +22,7 @@ Hi there, I'm Isuru M. Dasanayake! 👋
   
           🔹Backend: Laravel, Java (JSP, Servlets), Python
  
-          🔹Frontend: Angular, HTML, CSS, JavaScript
+          🔹Frontend: React, Angular, HTML, CSS, JavaScript
   
           🔹Databases: MySQL, PostgreSQL
   
@@ -38,7 +36,7 @@ Hi there, I'm Isuru M. Dasanayake! 👋
   
           🔹Online Photography Booking System
   
-          🔹Business Analytics Dashboard (University Assignment)
+          🔹Business Analytics Dashboard
 
 📫 Connect with Me
   
